@@ -1,4 +1,4 @@
-## Hi! ☻
+## Hi ☻
 My name is Arthur, I'm a Software Engineer based in Brazil.
 I'm mostly experienced with .NET MAUI/Xamarin/Android, but I also like to do ASP.NET backend.
 
@@ -10,3 +10,4 @@ I'm mostly experienced with .NET MAUI/Xamarin/Android, but I also like to do ASP
 * Python (for computer vision)
 
 I like to keep it simple and straightforward, I think this is the way to build *future proof software* 📱💻🌐.
+Checkout my pinned repos below 😁
