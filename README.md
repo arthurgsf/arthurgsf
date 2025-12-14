@@ -1,5 +1,6 @@
 ## Hi ☻
 My name is Arthur, I'm a Software Engineer based in Brazil.
+
 I'm mostly experienced with .NET MAUI/Xamarin/Android, but I also like to do ASP.NET backend.
 
 ## My Toolchain
